@@ -7,8 +7,5 @@
 <h1 align="center">
   E-Shop
 </h1>
-<p>A simple online ecommerce shop built with 
-<a href="https://www.gatsbyjs.org/" target="_blank" >Gatsby</a>,
-<a href="https://reactjs.org/" target="_blank" >React</a>
-<p>
+
 
